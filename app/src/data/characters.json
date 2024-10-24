@@ -1,0 +1,17 @@
+[ 
+ { 
+ "name": "Totoro", 
+ "image": "https://via.placeholder.com/200", 
+ "description": "Totoro es el guardián del bosque y un espíritu amable."
+ },
+ { 
+ "name": "Chihiro", 
+ "image": "https://via.placeholder.com/200", 
+ "description": "Chihiro es una joven valiente que debe salvar a sus padres en un mundo mágico."
+ },
+ { 
+ "name": "Ponyo", 
+ "image": "https://via.placeholder.com/200", 
+ "description": "Ponyo es una pequeña pez con sueños de convertirse en humana."
+ } 
+] 
