@@ -1,0 +1,48 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.card {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.table th {
+  font-weight: 600;
+}
+
+.btn-action {
+  padding: 0.25rem 0.5rem;
+  margin-right: 0.25rem;
+}
+
+.modal-header {
+  border-bottom: 2px solid #dee2e6;
+}
+
+.modal-footer {
+  border-top: 2px solid #dee2e6;
+}
+
+.toast {
+  min-width: 300px;
+}
+
+/* Animación para filas nuevas */
+@keyframes highlight {
+  0% {
+    background-color: #d1ecf1;
+  }
+  100% {
+    background-color: transparent;
+  }
+}
+
+.highlight-row {
+  animation: highlight 2s ease-in-out;
+}
